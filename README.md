@@ -1,1 +1,1 @@
-# StreamR-Personalized_Movie_Database
+# StreamR: Personalized Movie Database
