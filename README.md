@@ -2,6 +2,8 @@
 
 SteamR is a dynamic web application that allows users to access basic information about movies, such as casting and ratings. It also allow users to rate movies in addition to displaying popular rating such as IMDb. Users will also be able to create their own personal watchlist.
 
+# [StreamR](https://streamr-spm.herokuapp.com/)
+
 ## Get API key
 1. Create an account in [TMDb](https://www.themoviedb.org/) 
 2. Go to settings
