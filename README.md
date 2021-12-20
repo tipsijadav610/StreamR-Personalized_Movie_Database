@@ -14,5 +14,5 @@ SteamR is a dynamic web application that allows users to access basic informatio
 2. Go to `./StreamR-Personalized_Movie_Database/src` folder. 
 3. Install all the necessary libraries: `pip install -r requirements.txt`
 4. Replace **YOUR_API_KEY** in both the places (line no. 23 and 43) of `static/recommend.js` file.
-5. Open terminal/command prompt and run: python main.py
+5. Open terminal/command prompt and run: `python main.py`.
 6. Open browser and type `http://127.0.0.1:5000/`. 
